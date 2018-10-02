@@ -1,0 +1,12 @@
+.card :hover {
+    width : 50%;
+}
+
+img {
+    width : 100%;
+}
+
+.label {
+    box-sizing: inherit;
+    padding : 16px;
+}
